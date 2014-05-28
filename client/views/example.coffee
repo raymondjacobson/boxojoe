@@ -1,2 +1,1 @@
-Template.example.user_id = ->
-  'af'
+# Coffee for example view

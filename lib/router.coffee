@@ -10,4 +10,4 @@ Router.map ->
     layoutTemplate: "layout"
     data: ->
       params = @params
-      title: params.id
+      id: params.id
