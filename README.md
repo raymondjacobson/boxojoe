@@ -2,7 +2,7 @@ boxojoe.
 ===========
 ![Alt text](http://i.imgur.com/TMJtCOZ.png)
 
-#### [wakeruper](https://www.youtube.com/watch?v=9zdNdjF-htY). out of the box starting point for apps. meteorite, iron-router, coffee,  stylus 
+#### [wakeruper](http://bit.ly/1iungwX). out of the box starting point for apps. meteorite, iron-router, coffee,  stylus
 
 ### Set up:
     git clone https://github.com/raymondjacobson/boxojoe
