@@ -38,7 +38,7 @@ models/                   # mongodb collections & models
 ## Adding views & Routing
 
 - Add new_view.coffee and new_view.html to client/views/
-- Add template code, ex:
+- Add template code to new_view.html, ex:
 
 ```html
 <template name="new_view">
@@ -46,7 +46,7 @@ models/                   # mongodb collections & models
 </template>
 
 ```
-
+(Note: Ships with default meteor [spacebars](https://github.com/meteor/meteor/blob/devel/packages/spacebars/README.md))
 - Create route for new view in lib/router.coffee
 
 ```coffeescript
