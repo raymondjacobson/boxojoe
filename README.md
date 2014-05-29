@@ -1,13 +1,18 @@
-wakerupper.
+boxojoe.
 ===========
 ![Alt text](http://i.imgur.com/TMJtCOZ.png)
 
-#### out of the box starting point for apps. meteorite, iron-router, coffee,  stylus
+#### [wakeruper](https://www.youtube.com/watch?v=9zdNdjF-htY). out of the box starting point for apps. meteorite, iron-router, coffee,  stylus 
 
 ### Set up:
     git clone https://github.com/raymondjacobson/boxojoe
     cd boxojoe
     meteor
+
+### Organization
+
+    lib/
+
 
 ### Resources
 - Iron Router: https://github.com/EventedMind/iron-router/blob/dev/DOCS.md#rendering-the-router
