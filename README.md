@@ -33,6 +33,7 @@ client/assets             # static client assets: styles, images, etc.
 client/assets/styles      # client styles (includes zurb-grid)
 client/views              # templates for rendering views
 models/                   # mongodb collections & models
+public/                   # images, favicon, public assets, etc.
 ```
 
 ## Adding views & Routing
